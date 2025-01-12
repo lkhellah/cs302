@@ -1,7 +1,5 @@
 This is program 3 for CS 302
-I used the makefile instructions in the linux and vim lab manual but 
-the command "make all" is throwing errors and I couldn't solve it even with
-the help of a TCSS. SO run with just ./a.out
+./a.out
 Run the code and choose what you would like to do
 Follow the prompts since they will direct the user as to what they want
 The program allow you to create a schedule based on the name of the person.
